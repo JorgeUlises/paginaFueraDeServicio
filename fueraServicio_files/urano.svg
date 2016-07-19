@@ -17,8 +17,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="urano.svg"
    inkscape:export-filename="/home/jorge2/workspace/paginaFueraDeServicio/fueraServicio_files/urano.png"
-   inkscape:export-xdpi="111.03082"
-   inkscape:export-ydpi="111.03082">
+   inkscape:export-xdpi="133.23698"
+   inkscape:export-ydpi="133.23698">
   <defs
      id="defs4">
     <linearGradient
@@ -62,9 +62,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9841172"
-     inkscape:cx="198.32669"
-     inkscape:cy="123.33505"
+     inkscape:zoom="2.9583544"
+     inkscape:cx="202.64644"
+     inkscape:cy="122.32705"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
